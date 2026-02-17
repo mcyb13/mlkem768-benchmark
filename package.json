@@ -1,0 +1,17 @@
+{
+  "name": "kyber-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@noble/hashes": "^2.0.1",
+    "@noble/post-quantum": "^0.5.4",
+    "pqcrypto": "^1.0.1"
+  }
+}
