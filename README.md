@@ -4,7 +4,6 @@ A comprehensive performance benchmark and demonstration of post-quantum key enca
 
 [![NIST Standard](https://img.shields.io/badge/NIST-FIPS%20203-blue)](https://csrc.nist.gov/pubs/fips/203/final)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D20.19.0-brightgreen)](https://nodejs.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🎯 What This Benchmark Does
 
