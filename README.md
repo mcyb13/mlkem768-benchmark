@@ -260,6 +260,17 @@ Having issues? Please:
    - Steps to reproduce
 
 ---
+## 👩‍💻 Author
+
+**Maham Nasir**  
+MS Cybersecurity, COMSATS University Islamabad, Pakistan  
+Researcher in Post-Quantum Cryptography & Privacy-Preserving Protocols  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maham--n--0315-blue?logo=linkedin)](https://linkedin.com/in/maham-n-0315)
+
+> *"This project is part of ongoing independent research into post-quantum 
+> cryptographic protocol design, with applications to privacy-preserving 
+> digital currency systems (CBDCs) and secure identity protocols."*
 
 **⚠️ Note**: This is a demonstration for educational and benchmarking purposes. For production use, ensure proper:
 - Key management and storage
